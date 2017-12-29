@@ -1,2 +1,2 @@
-# mdplots
-Programs to plot data from MD simulation
+# MDPlot
+Programs I've written/edited/improvised to plot the data produced from MD Simulation.
